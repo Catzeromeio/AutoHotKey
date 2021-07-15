@@ -5,11 +5,11 @@
 可将 AutoHotKey 脚本编译成 exe，放到以下目录，开机启动
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 
-<capslock + h> -> left
-<capslock + j> -> down
-<capslock + k> -> up
-<capslock + l> -> right
-<capslock + ;> -> Home
-<capslock + .> -> End
-<capslock + '> -> PgUp
-<capslock + /> -> PgDn
+- <capslock + h> -> left
+- <capslock + j> -> down
+- <capslock + k> -> up
+- <capslock + l> -> right
+- <capslock + ;> -> Home
+- <capslock + .> -> End
+- <capslock + '> -> PgUp
+- <capslock + /> -> PgDn
